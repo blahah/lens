@@ -1,5 +1,5 @@
 {
-  "name": "lens",
+  "name": "elife-lens",
   "version": "2.0.0-beta5",
   "description": "A novel way of seeing content.",
   "url": "http://github.com/elifesciences/lens",
@@ -27,7 +27,7 @@
   "dependencies": {
     "underscore": "1.8.3"
   },
-  
+
   "engines": {
     "node": ">=0.8.x",
     "npm": ">=1.1.x"
