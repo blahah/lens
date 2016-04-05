@@ -3,7 +3,7 @@
 var util = require("../substance/util");
 var _ = require("underscore");
 
-var LensConverter = require('lens/converter');
+var LensConverter = require('../converter');
 
 var ElifeConverter = function(options) {
   LensConverter.call(this, options);
